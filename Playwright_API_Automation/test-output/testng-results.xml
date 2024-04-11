@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T12:49:48 IST" name="Default suite" finished-at="2023-11-28T12:50:02 IST" duration-ms="13707">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T12:49:48 IST" name="Default test" finished-at="2023-11-28T12:50:02 IST" duration-ms="13707">
+      <class name="Auth_Token.Token">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Auth_Token.Token@759d26fb]" started-at="2023-11-28T12:49:48 IST" name="setup" finished-at="2023-11-28T12:49:58 IST" duration-ms="10014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Create_Token()[pri:1, instance:Auth_Token.Token@759d26fb]" started-at="2023-11-28T12:49:58 IST" name="Create_Token" finished-at="2023-11-28T12:50:02 IST" duration-ms="3606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Token -->
+      </class> <!-- Auth_Token.Token -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
